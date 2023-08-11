@@ -1,4 +1,4 @@
-#counter_app
+# Basketball_points_counter_app
 
 A new Flutter project.
 
